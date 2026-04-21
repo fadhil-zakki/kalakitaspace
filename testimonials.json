@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Dina Rahayu",
+    "role": "Peserta Workshop",
+    "text": "Pengalaman yang luar biasa! Instrukturnya sabar dan menyenangkan. Saya berhasil membuat mug sendiri untuk pertama kalinya. Pasti akan kembali lagi!",
+    "rating": 5,
+    "avatar": "DR"
+  },
+  {
+    "name": "Budi Santoso",
+    "role": "Pembeli Produk",
+    "text": "Kualitas keramiknya sangat bagus, teksturnya unik dan finishing-nya rapi. Tea set yang saya beli jadi hadiah ulang tahun istri yang paling berkesan.",
+    "rating": 5,
+    "avatar": "BS"
+  },
+  {
+    "name": "Sari Indah",
+    "role": "Peserta Private Session",
+    "text": "Sesi privatnya worth it banget! Dapat banyak tips dan teknik dari instruktur. Studio-nya juga nyaman dan inspiratif.",
+    "rating": 5,
+    "avatar": "SI"
+  }
+]

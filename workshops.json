@@ -1,0 +1,50 @@
+[
+  {
+    "id": "w1",
+    "title": "Beginner Pottery Class",
+    "description": "Kelas tangan pertama Anda! Pelajari dasar-dasar membentuk tanah liat di atas roda putar. Cocok untuk pemula tanpa pengalaman sebelumnya.",
+    "duration": "3 jam",
+    "capacity": "8 orang",
+    "price": 350000,
+    "image": "assets/images/projects/workshop1.jpg",
+    "schedule": "Setiap Sabtu & Minggu",
+    "includes": ["Semua material", "Celemek", "Hasil karya dibakar & diglasir", "Sertifikat"],
+    "category": "workshop"
+  },
+  {
+    "id": "w2",
+    "title": "Hand Building Workshop",
+    "description": "Teknik membentuk keramik tanpa roda putar. Eksplorasi pinching, coiling, dan slab building untuk menciptakan bentuk unik yang Anda impikan.",
+    "duration": "4 jam",
+    "capacity": "10 orang",
+    "price": 300000,
+    "image": "assets/images/projects/workshop2.jpg",
+    "schedule": "Setiap Sabtu",
+    "includes": ["Semua material", "Celemek", "Hasil karya dibakar", "Snack & minuman"],
+    "category": "workshop"
+  },
+  {
+    "id": "w3",
+    "title": "Glazing & Painting Class",
+    "description": "Pelajari seni mewarnai dan mengglasir keramik. Ciptakan pola dan desain yang indah pada karya Anda sendiri.",
+    "duration": "2.5 jam",
+    "capacity": "12 orang",
+    "price": 250000,
+    "image": "assets/images/projects/workshop3.jpg",
+    "schedule": "Setiap Minggu",
+    "includes": ["Semua cat & glasir", "Keramik polos disediakan", "Hasil karya dibakar", "Refreshment"],
+    "category": "workshop"
+  },
+  {
+    "id": "w4",
+    "title": "Private Session",
+    "description": "Sesi privat 1-on-1 dengan instruktur berpengalaman kami. Fokus pada teknik yang ingin Anda kuasai dengan kurikulum yang disesuaikan.",
+    "duration": "2 jam",
+    "capacity": "1-2 orang",
+    "price": 600000,
+    "image": "assets/images/projects/workshop4.jpg",
+    "schedule": "Fleksibel (booking terlebih dahulu)",
+    "includes": ["Semua material", "Instruktur dedicated", "Hasil karya dibakar & diglasir", "Foto dokumentasi"],
+    "category": "workshop"
+  }
+]

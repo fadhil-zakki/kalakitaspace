@@ -1,0 +1,74 @@
+[
+  {
+    "id": "p1",
+    "name": "Mug Rustic Handmade",
+    "description": "Mug keramik handmade dengan tekstur rustic yang unik. Sempurna untuk kopi pagi Anda.",
+    "price": 185000,
+    "image": "assets/images/projects/mug1.jpg",
+    "category": "product",
+    "badge": "Bestseller",
+    "stock": 15,
+    "material": "Stoneware",
+    "size": "300ml"
+  },
+  {
+    "id": "p2",
+    "name": "Bowl Breakfast Set",
+    "description": "Set mangkuk sarapan yang elegan. Tersedia dalam warna earth tone yang menenangkan.",
+    "price": 320000,
+    "image": "assets/images/projects/bowl1.jpg",
+    "category": "product",
+    "badge": "New",
+    "stock": 8,
+    "material": "Stoneware",
+    "size": "Ø 16cm"
+  },
+  {
+    "id": "p3",
+    "name": "Vase Organic Shape",
+    "description": "Vas bunga dengan bentuk organik yang terinspirasi dari alam. Setiap karya adalah unik.",
+    "price": 275000,
+    "image": "assets/images/projects/vase1.jpg",
+    "category": "product",
+    "badge": "",
+    "stock": 6,
+    "material": "Earthenware",
+    "size": "H 20cm"
+  },
+  {
+    "id": "p4",
+    "name": "Dinner Plate Set (2pcs)",
+    "description": "Set piring makan handmade yang fungsional dan artistik. Cocok untuk hadiah pernikahan.",
+    "price": 480000,
+    "image": "assets/images/projects/plate1.jpg",
+    "category": "product",
+    "badge": "Limited",
+    "stock": 4,
+    "material": "Stoneware",
+    "size": "Ø 26cm"
+  },
+  {
+    "id": "p5",
+    "name": "Tea Set Minimalis",
+    "description": "Set teh minimalis 4 pieces: 1 teko + 3 cangkir. Desain Japandi yang tenang dan elegan.",
+    "price": 650000,
+    "image": "assets/images/projects/teaset1.jpg",
+    "category": "product",
+    "badge": "Bestseller",
+    "stock": 5,
+    "material": "Porcelain",
+    "size": "Teko 600ml"
+  },
+  {
+    "id": "p6",
+    "name": "Planter Pot Boho",
+    "description": "Pot tanaman bergaya boho dengan lubang drainase. Cocok untuk tanaman kaktus & sukulen.",
+    "price": 145000,
+    "image": "assets/images/projects/pot1.jpg",
+    "category": "product",
+    "badge": "",
+    "stock": 20,
+    "material": "Terracotta",
+    "size": "Ø 12cm"
+  }
+]
