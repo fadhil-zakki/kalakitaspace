@@ -83,7 +83,7 @@ function checkout() {
   const msg = encodeURIComponent(
     `Halo Yara Pottery! Saya ingin memesan:\n\n${items}\n\nTotal: ${DataLoader.formatPrice(total)}\n\nMohon konfirmasi ketersediaan. Terima kasih!`
   );
-  window.open(`https://wa.me/6281234567890?text=${msg}`, '_blank');
+  window.open(`https://wa.me/6285121240199?text=${msg}`, '_blank');
 }
 
 /* ── BOOKING ───────────────────────────────────────── */
@@ -119,7 +119,7 @@ function submitBooking(e) {
     `👥 Peserta: ${participants} orang\n\n` +
     `Mohon konfirmasi pendaftaran. Terima kasih!`
   );
-  window.open(`https://wa.me/6281234567890?text=${msg}`, '_blank');
+  window.open(`https://wa.me/6285121240199?text=${msg}`, '_blank');
   closeBooking();
 }
 
@@ -192,7 +192,7 @@ function initContactForm() {
     const name = form.querySelector('[name="name"]').value;
     const message = form.querySelector('[name="message"]').value;
     const msg = encodeURIComponent(`Halo! Saya ${name} ingin bertanya:\n\n${message}`);
-    window.open(`https://wa.me/6281234567890?text=${msg}`, '_blank');
+    window.open(`https://wa.me/6285121240199?text=${msg}`, '_blank');
   });
 }
 
