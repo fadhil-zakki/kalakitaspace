@@ -7,13 +7,13 @@
 
 /* ── CSS VARIABLES ───────────────────────────── */
 :root {
-  --bg:          #FFF0E0;
-  --bg-alt:      #FAE4C8;
+  --bg:          #ffffff;
+  --bg-alt:      #ffffff;
   --bg-dark:     #2C1A0E;
   --clay:        #C8956C;
   --clay-dark:   #9E6744;
   --clay-light:  #E8C4A0;
-  --cream:       #FFF8F0;
+  --cream:       #ffffff;
   --text:        #2C1A0E;
   --text-muted:  #7A5C40;
   --text-light:  #B08060;
