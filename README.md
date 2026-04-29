@@ -1,4 +1,4 @@
-# 🏺 Yara Pottery — Website Workshop & Shop
+# Kala Kita Space — Website Workshop & product 
 
 Website keramik handmade berbasis JSON, tanpa database. Semua konten dikelola melalui file JSON.
 
