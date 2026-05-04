@@ -1,6 +1,6 @@
 # Kala Kita Space — Website Workshop & product 
 
-
+...
 portfolio/
 ├── index.html          ← Halaman utama (jangan diubah strukturnya)
 ├── README.md           ← Panduan ini
@@ -25,3 +25,4 @@ portfolio/
     ├── videos/
     ├── icons/favicon.svg
     └── fonts/
+...
